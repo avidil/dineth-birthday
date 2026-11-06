@@ -2,7 +2,7 @@
 // Replace placeholders before sharing the public link.
 export const CONFIG = {
   birthdayName: 'DINETH',
-  candidates: ['Dase','Isumi Damdini','UC',''],
+  candidates: ['Dase','Isumi Damdini','U Akki','J Akki'],
   puzzle: {
     // The clue image is the puzzle; no separate brain-teaser is required.
     question: 'study the four sections in the clue image. each section gives four characters. one section is made of letters; the other three are made of numbers. put the four groups together in the order a reader naturally follows.',

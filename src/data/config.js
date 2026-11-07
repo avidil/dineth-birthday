@@ -20,7 +20,10 @@ export const CONFIG = {
     { question: 'What is your favourite animal?', answer: 'DOG' },
     { question: 'Where did you do your first job?', answer: 'RDB' },
     { question: 'What is your favourite colour?', answer: 'PURPLE' },
-    { question: 'In which city does your best friend live?', answer: 'KURUNEGALA' }
+    { question: 'In which city does your best friend live?', answer: 'KURUNEGALA' },
+     { question: 'What is your school name in short term?', answer: 'KGHS' },
+     { question: 'What is the magic number?(number is enough - x)', answer: '3' },
+    { question: 'What is the day that never came again?(dd-mm-yyyy)?', answer: '08-09-2024' }
   ],
   googleDriveUrl: 'https://drive.google.com/drive/folders/1Wpd5Y93fm9WVFVGhhpoK-PC-H8sJllEa?usp=drive_link',
   gifts: {
